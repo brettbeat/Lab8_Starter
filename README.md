@@ -1,1 +1,5 @@
 # Lab 8 - Starter
+1) I would think that all of them are ideal, but if I had to choose one it would be within a Github action that runs on push. That way, code is tested as it's completed & pushed as opposed to having to spend time manually testing, or running into a ton of issues testing it all at once.
+2) Probably not. I would think that end to end testing is more meant to test the functionality of the app as a whole, as opposed to testing the output of an individual function.
+3) I don't think I would. The message feature I think would include many other moving pieces of the app, like making sure the receiving person got the message, maybe there is a 'drafts' feature that could need testing, etc.
+4) I would use unit testing for this because it is a testable numerical value and it is contained just within the message the user is sending.
